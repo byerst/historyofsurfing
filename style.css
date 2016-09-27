@@ -1,0 +1,21 @@
+h1, h2  {
+  text-align: center;
+  font-family: 'Baloo Bhai', sans-serif;
+}
+
+h3  {
+  position: absolute;
+  top: 300px;
+  padding: 10px;
+}
+
+body  {
+  background: url("https://safiyahesack.files.wordpress.com/2013/03/big-wave-surfing-wallpapers-1920x1080.jpg");
+  color: Orange;
+  font-family: 'Montserrat', serif ;
+}
+
+img {
+  height: 150px;
+  width: 200px;
+}
